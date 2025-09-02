@@ -51,3 +51,5 @@
 
 
 <img width="1895" height="980" alt="Снимок282" src="https://github.com/user-attachments/assets/43312047-22eb-40d6-adca-2028fe5972e3" />
+
+<img width="1598" height="717" alt="Снимок283" src="https://github.com/user-attachments/assets/acc89c17-e0a5-4647-ac9e-ad6fdc60b3cd" />
