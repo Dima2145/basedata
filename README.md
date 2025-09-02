@@ -27,19 +27,5 @@
 
 ## Ответ
 
-(Сотрудники)
-Назначение: Основная информация о сотрудниках.
 
-Столбцы:
-
-id SERIAL PRIMARY KEY — уникальный идентификатор сотрудника (автоинкремент).
-
-full_name VARCHAR(255) NOT NULL — полное имя сотрудника.
-
-position_id INT NOT NULL — ссылка на должность (FOREIGN KEY к positions.id).
-
-division_id INT NOT NULL — ссылка на структурное подразделение (FOREIGN KEY к divisions.id).
-
-hire_date DATE NOT NULL — дата найма. (Примечание: в данных есть значения вроде 200113, их нужно будет преобразовать в валидный фордат DATE).
-
-project_id INT NULL — ссылка на проект (FOREIGN KEY к projects.id). Может быть NULL, если сотрудник не назначен на проект.
+<img width="1895" height="980" alt="Снимок282" src="https://github.com/user-attachments/assets/43312047-22eb-40d6-adca-2028fe5972e3" />
